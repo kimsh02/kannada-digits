@@ -1,7 +1,5 @@
 # Kannada Digit Recognition using CNN and KNN
 
-## About
-
 This repository contains a machine learning project focused on recognizing
 handwritten Kannada digits (0-9) using two primary classifiers: Convolutional
 Neural Networks (CNN) and K-Nearest Neighbors (KNN). The project was implemented
