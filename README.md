@@ -85,9 +85,12 @@ Consisted of:
 
 Conducted experiments by varying the number of convolutional layers in the CNN:
 
-Convolutional Layers Augmented Dataset Accuracy (%) Non-Augmented Dataset
-Accuracy (%) Four Layers 85.31 76.77 Three Layers 87.28 75.57 Two Layers 84.22
-72.90 One Layer 77.54 70.01
+| Convolutional Layers | Augmented Dataset Accuracy (%) | Non-Augmented Dataset Accuracy (%) |
+|----------------------|--------------------------------|------------------------------------|
+| Four Layers          | 85.31                          | 76.77                              |
+| Three Layers         | 87.28                          | 75.57                              |
+| Two Layers           | 84.22                          | 72.90                              |
+| One Layer            | 77.54                          | 70.01                              |
 
 Three-layer CNN architecture showed the best performance.
 
@@ -109,4 +112,4 @@ Author • Shawn Kim tkim1@arizona.edu
 ⸻
 
 Note: For detailed insights, visualization, and methodology, refer to the
-included [project report](final_report.pdf).
+included [project report](final_project.pdf).
